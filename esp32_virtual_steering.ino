@@ -1,8 +1,8 @@
 #include <WiFi.h>
 
 // ====== Wi-Fi credentials ======
-const char* ssid = "akszayan";
-const char* password = "87654321";
+const char* ssid = "Your SSID"; //change to your wifi ssid
+const char* password = "87654321"; //change to your wifi password
 
 // ====== Static IP configuration ======
 IPAddress local_IP(192, 168, 137, 155);
